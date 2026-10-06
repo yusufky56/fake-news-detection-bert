@@ -1,0 +1,6 @@
+﻿Çalışma,Model,Doğruluk (%),Veri Temizliği,Veri Seti
+Ahmed ve ark. (2017),N-gram + TF-IDF + PA,92.77,Hayır,ISOT
+Raza ve Ding (2022),BERT + LSTM,98.36,Kısmi,ISOT
+Kaliyar ve ark. (2021),FakeBERT (BERT+CNN),98.90,Hayır,ISOT
+Kula ve ark. (2020),BERT fine-tuned,99.20,Kısmi,ISOT
+Bu çalışma,BERT fine-tuned,99.97,Tam,ISOT

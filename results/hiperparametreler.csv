@@ -1,0 +1,21 @@
+﻿Parametre,Değer
+Model,bert-base-uncased
+Parametre sayısı,~110 milyon
+Vocabulary boyutu,"30,522 token"
+Maksimum dizi uzunluğu,256 token
+Tokenizer,WordPiece
+Eğitim dönemi (epoch),3
+Yığın boyutu (batch size),32
+Gradyan biriktirme adımı,2
+Efektif yığın boyutu,64
+Öğrenme oranı,2e-05
+Optimizasyon algoritması,AdamW
+Ağırlık azalması (weight decay),0.01
+Isınma adımı (warmup steps),500
+Öğrenme oranı zamanlayıcı,Linear decay
+Karma hassasiyet (FP16),Aktif
+Random seed,42
+Early stopping patience,2 epoch
+Early stopping metriği,f1
+Truncation stratejisi,Sağdan kesme
+Padding stratejisi,[PAD] ile max_length tamamlama
