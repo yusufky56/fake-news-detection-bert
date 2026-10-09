@@ -60,3 +60,7 @@ The script writes the trained model, metrics, error analysis (false positives an
 |---|---|
 | `fake_news_bert.py` | Full pipeline: loading, deduplication, split, leakage check, training, evaluation, figures |
 | `results/` | Metrics, hyperparameters, training history and figures from the published run |
+
+## License
+
+[MIT](LICENSE). The MIT license covers the source code. Figures that appear in the published paper may be subject to the publisher's copyright and are not covered by this license. Datasets belong to their original authors.
